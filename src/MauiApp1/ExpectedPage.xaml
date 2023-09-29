@@ -24,6 +24,7 @@
                              VerticalOptions="Start">
             <Label Text="This text is set to Poppins Regular.&#10;Font size: 14px&#10;Line height: 20px&#10;Character spacing: -0.28px (-2%)." />
             <Label Text="Labels on this page have a MAUI LineHeight of 1.25" />
+            <Label Text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." />
             <Label HeightRequest="60"
                    Background="#00FFF0"
                    Text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." />
